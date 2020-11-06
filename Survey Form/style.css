@@ -1,0 +1,31 @@
+body {
+  content: "";
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgb(31, 30, 30);
+  background-image: url(https://lh3.googleusercontent.com/proxy/Y_LpMn5zqQ6W7cx65tIE-C_Ns6FHQ6ifrkfRYvG-V7LyKnHey7Bz8h3hKew3wPlQ9uaDsHK-oJg7k-BhGXdtakf1K-7xfJOUYRRJ-5eruXL2rnc);
+  background-position: center;
+}
+main {
+  background-color: rgba(94, 106, 133, 0.555);
+  width: 500px;
+  margin: auto;
+  padding: 5%;
+}
+h1,
+p {
+  text-align: center;
+  font-size: 24px;
+}
+.container {
+  width: 250px;
+  margin: auto;
+  padding: 25px;
+}
+img {
+  width: 250px;
+  margin: 20%;
+  padding: 50px;
+}
