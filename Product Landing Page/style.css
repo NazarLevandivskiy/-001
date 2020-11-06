@@ -1,0 +1,25 @@
+body {
+  background-color: rgba(128, 128, 128, 0.329);
+  background-image: url(https://i.pinimg.com/originals/d2/d6/82/d2d682aa8ec90402b987ea2cb1cfc8b0.jpg);
+  width: max-content;
+}
+p {
+  text-align: center;
+  color: grey;
+}
+main {
+  background-color: rgba(46, 43, 63, 0.753);
+}
+nav {
+  text-transform: uppercase;
+}
+nav li {
+  display: inline;
+  margin: 100px;
+  padding: 50px;
+}
+@media screen {
+}
+.container {
+  display: flex;
+}
