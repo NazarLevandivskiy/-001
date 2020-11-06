@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background-color: rgba(175, 169, 169, 0.781);
+  background-image: url(https://i.pinimg.com/originals/8e/d4/25/8ed4250fd8e48fa7ca24a834ba6c3d9d.jpg);
+}
+main {
+  margin: auto;
+  text-align: center;
+  width: 800px;
+  background-color: rgba(163, 163, 163, 0.678);
+  text-align: 100px;
+}
+#navbar {
+  position: fixed;
+  right: 10px;
+  background-color: rgb(31, 30, 30);
+}
